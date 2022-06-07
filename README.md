@@ -5,18 +5,19 @@
 Hello, and thank you for letting us join you on your machine learning journey, however far along that you may be! It doesn't matter if you don't come from a technical or a mathematical background (though it's okay if you do too!); we are releasing this course to help as many people as possible learn about machine learning. We are very excited to be joining you in this journey 😊
 
 #### Our Goal: provide practical experience in applied AI
-- Scoping, designing, implementing POC of AI project
-- 12-week course with capstone.
-- Hands-on experience
+- Provide a 12-week training with a capstone project
+- Help with scoping, designing, implementing POC of AI project
 - Provide guidance throughout the course
-- High-level ML knowledge
+- Provide high-level ML knowledge and intuition
 - Demystifying ML: from “black box” to real application
 
 #### Your Goal: learn how to implement & troubleshoot AI solutions in 3 months
 - Finish the course
 - Finish the Capstone project
 
-A quote from Jeremy Howard, one of the co-founders of fast.ai
+<br>
+
+If you're looking for some inspirantion, here's a quote from Jeremy Howard, one of the co-founders of fast.ai
 
 ___“We’ve seen that the only consistent trait amongst every fast.ai student that’s gone on to be a world-class practitioner is that they are all very tenacious.”___
 
