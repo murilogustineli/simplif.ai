@@ -58,7 +58,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 | 05   | [**Lesson 4**](https://course.fast.ai/videos/?lesson=4) <br> Chapter 4: Under the Hood: Training a Digit Classifier (pg. 163) <br> Chapter 5: Image Classification (pg. 185) |
 | 06   | [**Lesson 6**](https://course.fast.ai/videos/?lesson=6) <br> Chapter 5: Image Classification (pg. 203) <br> Chapter 6: Other Computer Vision problems (pg. 219) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 253) <br> ___Capstone project meeting check-in___ |
 | 07   | [**Lesson 7**](https://course.fast.ai/videos/?lesson=7) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 265) <br> Chapter 9: Tabular Modeling Deep Dive (pg. 277) |
-| 08   | **Review week** <br> [**Lesson 8**](https://course.fast.ai/videos/?lesson=8) __(Optional)__ <br> Chapter 10: NLP Deep Dive: RNNs (pg. 329) <br> Chapter 12: A Language Model from Scratch (pg. 373) <br> Finalize Capstone use-case |
+| 08   | **Review week** <br> [**Lesson 8**](https://course.fast.ai/videos/?lesson=8) __(Optional)__ <br> Chapter 10: NLP Deep Dive: RNNs (pg. 329) <br> Chapter 12: A Language Model from Scratch (pg. 373) <br> ___Finalize Capstone use-case___ |
 | 09   | Capstone project |
 | 10   | Capstone project |
 | 11   | Capstone project |
