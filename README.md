@@ -39,9 +39,9 @@ Notes
 - Take the [survey](https://forms.gle/diCAZerPeNtg4ASk9) prior start of the course
 
 Kaggle Competitions (alternative for the Capstone project)
-•	Classification Problem: https://www.kaggle.com/c/titanic 
-•	Regression Problem: https://www.kaggle.com/c/house-prices-advanced-regression-techniques 
-•	Computer Vision: https://www.kaggle.com/c/digit-recognizer 
-•	Image Processing: https://www.kaggle.com/c/facial-keypoints-detection 
-•	Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial  
-•	UCI datasets for ML repository: https://archive.ics.uci.edu/ml/datasets.php 
+- [Classification Problem](https://www.kaggle.com/c/titanic)
+- [Regression Problem](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- [Computer Vision](https://www.kaggle.com/c/digit-recognizer)
+- [Image Processing](https://www.kaggle.com/c/facial-keypoints-detection)
+- [Natural Language Processing](https://www.kaggle.com/c/word2vec-nlp-tutorial) 
+- [UCI datasets for ML repository](https://archive.ics.uci.edu/ml/datasets.php)
