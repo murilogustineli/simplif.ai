@@ -4,8 +4,7 @@
 
 Hello, and thank you for letting us join you on your machine learning journey, however far along that you may be! It doesn't matter if you don't come from a technical or a mathematical background (though it's okay if you do too!); we are releasing this course to help as many people as possible learn about machine learning. We are very excited to be joining you in this journey 😊
 
-#### Our Goal: teach engineers how to implement & troubleshooting AI solution in 3 months.
-- Provide practical experience in applied AI
+#### Our Goal: provide practical experience in applied AI
 - Scoping, designing, implementing POC of AI project
 - 12-week course with capstone.
 - Hands-on experience
@@ -13,7 +12,7 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 - High-level ML knowledge
 - Demystifying ML: from “black box” to real application
 
-#### Your Goal: expand your capabilities for contributing to AI solutions.
+#### Your Goal: learn how to implement & troubleshoot AI solutions in 3 months
 - Finish the course
 - Finish the Capstone project
 
