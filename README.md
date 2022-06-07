@@ -15,11 +15,13 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 - Finish the course
 - Finish the Capstone project
 
-<br>
+---
 
 If you're looking for some inspirantion, here's a quote from Jeremy Howard, one of the co-founders of fast.ai
 
 ___“We’ve seen that the only consistent trait amongst every fast.ai student that’s gone on to be a world-class practitioner is that they are all very tenacious.”___
+
+---
 
 ### Structure of the course
 | Day of week | Course content |
@@ -27,6 +29,8 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 | Mondays     | Meeting recap from last week & introduction of topics for current week |
 | Tues-Wed-Thur | Reading, coding, assingments |
 | Fridays | Meeting Q&A of the topics covered during the week |
+
+---
 
 ### Helpful links
 - [Practical Deep Learnign for Coders: Course homepage](https://course.fast.ai/)
@@ -36,9 +40,13 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 - [Bear classifier repo](https://github.com/murilogustineli/bear-classifier)
 - [Survey link](https://forms.gle/diCAZerPeNtg4ASk9)
 
+---
+
 ### Notes
 - We recommend not using the VPN when accessing the VM to run your models
-- Take the [survey](https://forms.gle/diCAZerPeNtg4ASk9) prior start of the course
+- Take the [survey](https://forms.gle/diCAZerPeNtg4ASk9) prior start of the course. Don't worry, it's completely anonymous.
+
+---
 
 ### Kaggle Competitions (alternative for the Capstone project)
 - [Classification Problem](https://www.kaggle.com/c/titanic)
@@ -47,6 +55,8 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 - [Image Processing](https://www.kaggle.com/c/facial-keypoints-detection)
 - [Natural Language Processing](https://www.kaggle.com/c/word2vec-nlp-tutorial) 
 - [UCI datasets for ML repository](https://archive.ics.uci.edu/ml/datasets.php)
+
+---
 
 ### 12-week course schedule
 | Week | Course content |
@@ -64,11 +74,17 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 | 11   | Capstone project |
 | 12   | Capstone project |
 
+---
+
 ### Capstone
 - Options in Azure: provide overview of cognitive services and how they work.
 - Design approach to solve a problem using cognitive services
 
+---
+
 ### Extra resources:
 - [Gradient Descent – ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
+
+---
 
 ### Chapter Questionnaires
