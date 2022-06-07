@@ -52,12 +52,12 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 | ---- | -------------- |
 | 01   | [**Lesson 1**](https://course.fast.ai/videos/?lesson=1) <br> Chapter 1: Your Deep Learning Journey (pg. 3) |
 | 02   | [**Lesson 2**](https://course.fast.ai/videos/?lesson=2) <br> Chapter 2: From Model to Production (pg. 57) |
-| 03   | [**Lesson 2**](https://course.fast.ai/videos/?lesson=2) <br> Chapter 2: Creating an app from the Model (pg.80) |
+| 03   | [**Lesson 2**](https://course.fast.ai/videos/?lesson=2) <br> Chapter 2: Creating an app from the Model (pg. 80) |
 | 04   | [**Lesson 3**](https://course.fast.ai/videos/?lesson=3) <br> Chapter 4: Under the Hood: Training a Digit Classifier (pg. 133) |
 | 05   | [**Lesson 4**](https://course.fast.ai/videos/?lesson=4) <br> Chapter 4: Under the Hood: Training a Digit Classifier (pg. 163) <br> Chapter 5: Image Classification (pg. 185) |
 | 06   | [**Lesson 6**](https://course.fast.ai/videos/?lesson=6) <br> Chapter 5: Image Classification (pg. 203) <br> Chapter 6: Other Computer Vision problems (pg. 219) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 253) |
 | 07   | [**Lesson 7**](https://course.fast.ai/videos/?lesson=7) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 265) <br> Chapter 9: Tabular Modeling Deep Dive (pg. 277) |
-| 08   | **Review week** <br> [**Lesson 8**](https://course.fast.ai/videos/?lesson=8)(Optional) <br> Chapter 10: NLP Deep Dive: RNNs (pg. 329) <br> Chapter 12: A Language Model from Scratch (pg. 373) |
+| 08   | **Review week** <br> [**Lesson 8**](https://course.fast.ai/videos/?lesson=8) (Optional) <br> Chapter 10: NLP Deep Dive: RNNs (pg. 329) <br> Chapter 12: A Language Model from Scratch (pg. 373) |
 | 09   | Capstone project |
 | 10   | Capstone project |
 | 11   | Capstone project |
@@ -67,3 +67,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 - Options in Azure: provide overview of cognitive services and how they work.
 - Design approach to solve a problem using cognitive services
 
+### Extra resources:
+- [Gradient Descent – ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
+
+### Chapter Questionnaires
