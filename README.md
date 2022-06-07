@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/murilogustineli/Simplif.ai/blob/main/simplif.ai%20banner.jpg)
 
-Hello, and thank you for letting us join you on your machine learning journey, however far along that you may be! It doesn't matter if you don't come from a technical or a mathematical background (though it's okay if you do too!); we are releasing this course to help as many people as possible learn about machine learning. We are very excited to be joining you in this journey 😊
+Hello, and thank you for letting us join you on your machine learning journey, however far along that you may be! It doesn't matter if you don't come from a technical or a mathematical background (though it's okay if you do too!); we are releasing this training to help as many people as possible learn about machine learning and AI. We are very excited to be joining you in this journey 😊
 
 #### Our Goal: provide practical experience in applied AI
 - Provide a 12-week training with a capstone project
