@@ -88,3 +88,6 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 ---
 
 ### Chapter Questionnaires
+- [Chapter 1 Questionnaire](https://github.com/murilogustineli/Simplif.ai/blob/main/Questionnaires/Ch01-Questionnaire.ipynb)
+- [Chapter 2 Questionnaire](https://github.com/murilogustineli/Simplif.ai/blob/main/Questionnaires/Ch02-Questionnaire.ipynb)
+- [Chapter 4 Questionnaire](https://github.com/murilogustineli/Simplif.ai/blob/main/Questionnaires/Ch04-Questionnaire.ipynb)
