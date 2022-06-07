@@ -82,7 +82,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 
 ---
 
-### Extra resources:
+### Extra resources
 - [Gradient Descent – ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
 
 ---
