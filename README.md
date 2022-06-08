@@ -72,7 +72,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 
 ---
 
-### Kaggle Competitions (alternative for the Capstone project)
+### Datasets & Kaggle Competitions (alternative for the Capstone project)
 - [Classification Problem](https://www.kaggle.com/c/titanic)
 - [Regression Problem](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - [Computer Vision](https://www.kaggle.com/c/digit-recognizer)
