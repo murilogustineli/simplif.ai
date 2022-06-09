@@ -67,8 +67,33 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 ---
 
 ### Capstone
-- Options in Azure: provide overview of cognitive services and how they work.
-- Design approach to solve a problem using cognitive services
+Congratulations on making all the way through the first eight weeks! Now you’re ready to build a cool project! 
+
+We encourage you keep in mind the following three rules when approaching the capstone project:
+1. Use Azure Cognitive Services
+2. Define your own use-case (deadline by week 8)
+3. Do something that hasn’t been done before
+
+#### Guidelines
+For the capstone project, your goal is to use what you learned throughout the first 8 weeks to create a solution that hasn’t been done before using AI and Cognitive Services. You have up to week 8 to come up with your own use-case. We will hold weekly office hours to answer questions you may have and guide you throughout your project.
+
+Here are the possible steps you may want to consider:
+1. Think about a use-case or a problem you want to solve. Hopefully something that hasn’t been done before.
+2. Find a dataset that can be used to train an AI system to solve the problem.
+3. Incorporate Azure Cognitive Services into training/deploying your model.
+
+#### Potential ideas
+- Create a computer vision system that recognizes your pets
+- Create a resume parser using NLP
+- Create a model that recognizes anomalies on images (e.g., X-ray images)
+- Crate a music recommendation system
+
+Don’t worry is these ideas sound too daunting or difficult. By week 8, you should be able to know at least where to start. Also, we will be providing feedback and mentoring during the 
+Capstone project. However, it is expected that you come up with your own use-case.
+
+Here’s some advice. Try to create the simplest model you can by the end of the first week and use the following weeks to iterate and improve your model. It’s easy to fall into the trap of trying to create something very complex and forget that a working model is better than no model at all.
+
+Happy coding 😊
 
 ---
 
