@@ -69,27 +69,38 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 ### Capstone
 Congratulations on making all the way through the first eight weeks! Now you’re ready to build a cool project! 
 
-We encourage you keep in mind the following three rules when approaching the capstone project:
-1. Use Azure Cognitive Services
-2. Define your own use-case (deadline by week 8)
-3. Do something that hasn’t been done before
+Please note we are assuming you are comfortable coding in Python and setting up your dev environment (VS code). If you don't feel comfortable, please reach out to us.
+
+We are providing you with two options you can choose from to create your capstone project.
+
+#### Two options
+1. __(Recommended)__ Use cognitive services to solve a problem of your choice (highly recommend going with CS. It will show how easy it is to build a solution)
+    - You learned the basic understanding/intuition behind machine learning and want to quickly build a solution. Should be comfortable working with APIs.
+2. Use fastai & datasets to solve a problem.
+    - You will acquire more experience coding ML models from scratch, provide more flexibility tweaking your models, and understaning “under the hood” of ML models.
+
+We encourage you to keep in mind the following three rules when approaching the capstone project:
+1. Use Azure Cognitive Services (option 1) or fastai (option 2)
+2. Define your use case (deadline by week 8)
+3. Create something unique that hasn’t been done before
 
 #### Guidelines
-For the capstone project, your goal is to use what you learned throughout the first 8 weeks to create a solution that hasn’t been done before using AI and Cognitive Services. You have up to week 8 to come up with your own use-case. We will hold weekly office hours to answer questions you may have and guide you throughout your project.
+For the capstone project, your goal is to use what you learned throughout the first 8 weeks to create an unique solution that hasn’t been done before using AI. You have up to week 8 to come up with your use case. We will hold weekly office hours to answer questions you may have and guide you throughout your project.
 
 Here are the possible steps you may want to consider:
-1. Think about a use-case or a problem you want to solve. Hopefully something that hasn’t been done before.
-2. Find a dataset that can be used to train an AI system to solve the problem.
-3. Incorporate Azure Cognitive Services into training/deploying your model.
+1. Think about a use case or a problem you want to solve. Hopefully, something that hasn’t been done before.
+2. Find/create a dataset that can be used to train an AI system to solve the problem.
+3. Incorporate Azure Cognitive Services or fastai into training/deploying your model.
+4. Reiterate and try to improve your model.
 
 #### Potential ideas
 - Create a computer vision system that recognizes your pets
 - Create a resume parser using NLP
 - Create a model that recognizes anomalies on images (e.g., X-ray images)
-- Crate a music recommendation system
+- Create a music recommendation system
 
-Don’t worry is these ideas sound too daunting or difficult. By week 8, you should be able to know at least where to start. Also, we will be providing feedback and mentoring during the 
-Capstone project. However, it is expected that you come up with your own use-case.
+Don’t worry if these ideas sound too daunting or difficult. By week 8, you should be able to know at least where to start. Also, we will be providing feedback and mentoring during the 
+Capstone project. However, it is expected that you come up with your own use case.
 
 Here’s some advice. Try to create the simplest model you can by the end of the first week and use the following weeks to iterate and improve your model. It’s easy to fall into the trap of trying to create something very complex and forget that a working model is better than no model at all.
 
