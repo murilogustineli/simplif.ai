@@ -66,17 +66,17 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 
 ---
 
-## Capstone
+## Capstone Project
 Congratulations on making all the way through the first eight weeks! Now you’re ready to build a cool project! 
 
 Please note we are assuming you are comfortable coding in Python and setting up your dev environment (VS code). If you don't feel comfortable, please reach out to us.
 
-We are providing you with two options you can choose from to create your capstone project.
+We are providing you with two tracks you can follow to create your capstone project.
 
-#### Two options
-1. __(Recommended)__ Use cognitive services to solve a problem of your choice (highly recommend going with CS. It will show how easy it is to build a solution)
-    - You learned the basic understanding/intuition behind machine learning and want to quickly build a solution. Should be comfortable working with APIs.
-2. Use fastai & datasets to solve a problem.
+#### Track options
+1. __(Recommended)__ Use Azure Cognitive Services to solve a problem of your choice. This option will show how easy it is to build an AI solution using Cognitive Services.
+    - You have learned the basic understanding/intuition of machine learning throughout the course and want to quickly build a solution. Should be comfortable working with APIs.
+2. Use fastai & datasets to solve a problem of your choice.
     - You will acquire more experience coding ML models from scratch, provide more flexibility tweaking your models, and understaning “under the hood” of ML models.
 
 We encourage you to keep in mind the following __three rules__ when approaching the capstone project:
