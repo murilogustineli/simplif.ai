@@ -44,7 +44,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 
 ### Notes
 - We recommend not using the VPN when accessing the VM to run your models
-- Take the [survey](https://forms.gle/diCAZerPeNtg4ASk9) prior start of the course. Don't worry, it's completely anonymous.
+- Take the [survey](https://forms.gle/diCAZerPeNtg4ASk9) prior start of the course. Don't worry, it's completely anonymous
 
 ---
 
