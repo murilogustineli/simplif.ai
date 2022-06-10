@@ -38,7 +38,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 - [VM setup GitHub repo](https://github.com/murilogustineli/DataScienceVM/tree/main/Samples/fastai2)
 - [Quizzes](https://aiquizzes.com/howto)
 - [Bear classifier repo](https://github.com/murilogustineli/bear-classifier)
-- [Survey link](https://forms.gle/diCAZerPeNtg4ASk9)
+- [Survey link](https://forms.gle/pTLLh8SQnpGwZxj79)
 
 ---
 
