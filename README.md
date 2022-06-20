@@ -80,7 +80,7 @@ We are providing the following two tracks for the capstone project.
     - You will acquire more experience coding ML models from scratch, provide more flexibility tweaking your models, possibly creating your own datasets, and understaning “under the hood” of ML models.
 
 We encourage you to keep in mind the following __three rules__ when approaching the capstone project:
-1. Use Azure Cognitive Services (option 1) or fastai (option 2)
+1. Use Azure Cognitive Services (**option 1**) or fastai (**option 2**)
 2. Define your use case (deadline by week 8)
 3. Create something unique that hasn’t been done before
 
