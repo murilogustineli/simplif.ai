@@ -103,7 +103,7 @@ Here are the possible steps you may want to consider:
 Don’t worry if these ideas sound too daunting or difficult. By week 8, you should be able to know at least where to start. Also, we will be providing feedback and mentoring during the 
 Capstone project. However, it is expected that you come up with your own use case.
 
-Here’s some advice. Try to create the simplest model you can by the end of the first week and use the following weeks to iterate and improve your model. It’s easy to fall into the trap of trying to create something very complex and forget that a working model is better than no model at all.
+Here’s some advice. Try to create the simplest model you can by the end of the first week of the capstone project phase, and use the following weeks to iterate and improve your model. It’s easy to fall into the trap of trying to create something very complex and forget that a working model is better than no model at all.
 
 Happy coding 😊
 
