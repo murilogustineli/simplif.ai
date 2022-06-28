@@ -121,6 +121,8 @@ Happy coding 😊
 
 ### Extra resources
 - [Gradient Descent – ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
+- [Matrix Multiplication Intuition](http://matrixmultiplication.xyz/)
+
 <!-- - [Introduction to Machine Learning by MIT – video lecture](https://www.youtube.com/watch?v=h0e2HAPTGF4&ab_channel=MITOpenCourseWare) -->
 
 ---
