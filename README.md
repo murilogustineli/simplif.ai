@@ -27,7 +27,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 | Day of week | Course content |
 | ----------- | -------------- |
 | Mondays     | Meeting recap from last week & introduction of topics for current week |
-| Tues-Wed-Thur | Reading, coding, assignments |
+| Tues-Wed-Thur | Reading, coding, assignments (office hours on Wednesdays) |
 | Fridays | Meeting Q&A of the topics covered during the week |
 
 ---
