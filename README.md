@@ -122,6 +122,7 @@ Happy coding 😊
 ### Extra resources
 - [Gradient Descent – ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
 - [Matrix Multiplication Intuition](http://matrixmultiplication.xyz/)
+- [A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.14951&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 <!-- - [Introduction to Machine Learning by MIT – video lecture](https://www.youtube.com/watch?v=h0e2HAPTGF4&ab_channel=MITOpenCourseWare) -->
 
