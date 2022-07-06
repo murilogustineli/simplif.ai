@@ -23,7 +23,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 
 ---
 
-### Course schedule
+### Meeting schedule
 | Day of week | Course content |
 | ----------- | -------------- |
 | Mondays     | Meeting recap from last week & introduction of topics for current week |
