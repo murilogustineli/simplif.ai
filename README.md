@@ -35,6 +35,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 ### Helpful links
 - [Practical Deep Learnign for Coders: Course homepage](https://course.fast.ai/)
 - [Book "Deep Learning for Coders" available on Amazon](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?crid=1WOL750UV0NC1&keywords=deep+learning+for+coders&qid=1656359965&sprefix=deep+leanring+for+coders%2Caps%2C68&sr=8-1)
+- [Google Colab notebooks](https://course.fast.ai/Resources/book.html)
 - [Fastbook GitHub repo](https://github.com/fastai/fastbook)
 - [VM setup GitHub repo](https://github.com/murilogustineli/DataScienceVM/tree/main/Samples/fastai2)
 - [Quizzes](https://aiquizzes.com/howto)
