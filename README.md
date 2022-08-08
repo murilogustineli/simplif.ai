@@ -33,14 +33,8 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 ---
 
 ### Helpful links
-- [Practical Deep Learnign for Coders: Course homepage](https://course.fast.ai/)
-- [Book "Deep Learning for Coders" available on Amazon](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?crid=1WOL750UV0NC1&keywords=deep+learning+for+coders&qid=1656359965&sprefix=deep+leanring+for+coders%2Caps%2C68&sr=8-1)
-- [Google Colab notebooks](https://course.fast.ai/Resources/book.html)
-- [Fastbook GitHub repo](https://github.com/fastai/fastbook)
-- [VM setup GitHub repo](https://github.com/murilogustineli/DataScienceVM/tree/main/Samples/fastai2)
-- [Quizzes](https://aiquizzes.com/howto)
-- [Bear classifier repo](https://github.com/murilogustineli/bear-classifier)
 - [Survey link](https://forms.gle/pTLLh8SQnpGwZxj79)
+
 
 ---
 
@@ -128,7 +122,41 @@ Happy coding 😊
 - [3Blue1Brown: Neural Network playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [NumPy UltraQuick Tutorial](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=numpy_tf2-colab&hl=en#scrollTo=vO47lN3aDOAv)
 
-<!-- - [Introduction to Machine Learning by MIT – video lecture](https://www.youtube.com/watch?v=h0e2HAPTGF4&ab_channel=MITOpenCourseWare) -->
+
+
+
+
+
+
+
+<!-- 
+fast.ai version of Simplif.ai (deprecated)
+### 12-week course schedule
+| Week | Course content |
+| ---- | -------------- |
+| 01   | [**Lesson 1**](https://www.youtube.com/watch?v=_QUEXsHfsA0&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM) <br> Chapter 1: Your Deep Learning Journey (pg. 3) |
+| 02   | [**Lesson 2**](https://www.youtube.com/watch?v=BvHmRx14HQ8&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=3) <br> Chapter 2: From Model to Production (pg. 57) |
+| 03   | [**Lesson 2**](https://www.youtube.com/watch?v=BvHmRx14HQ8&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=3) <br> Chapter 2: Creating an app from the Model (pg. 80) |
+| 04   | [**Lesson 3**](https://www.youtube.com/watch?v=5L3Ao5KuCC4&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=4) <br> Chapter 4: Under the Hood: Training a Digit Classifier (pg. 133) |
+| 05   | [**Lesson 4**](https://www.youtube.com/watch?v=p50s63nPq9I&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=5) <br> Chapter 4: Under the Hood: Training a Digit Classifier (pg. 163) <br> Chapter 5: Image Classification (pg. 185) |
+| 06   | [**Lesson 6**](https://www.youtube.com/watch?v=cX30jxMNBUw&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=7) <br> Chapter 5: Image Classification (pg. 203) <br> Chapter 6: Other Computer Vision problems (pg. 219) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 253) <br> ___Capstone project meeting check-in___ |
+| 07   | [**Lesson 7**](https://www.youtube.com/watch?v=VEG5xT5gAHc&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=8) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 265) <br> Chapter 9: Tabular Modeling Deep Dive (pg. 277) |
+| 08   | ***Review week*** <br> ___Finalize Capstone use-case___ <br> [**Lesson 8**](https://www.youtube.com/watch?v=WjnwWeGjZcM&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=9) __(OPTIONAL)__ <br> Chapter 10: NLP Deep Dive: RNNs (pg. 329) <br> Chapter 12: A Language Model from Scratch (pg. 373) |
+| 09   | Capstone project |
+| 10   | Capstone project |
+| 11   | Capstone project |
+| 12   | Capstone project |
+
+
+### Helpful links
+- [Practical Deep Learnign for Coders: Course homepage](https://course.fast.ai/)
+- [Book "Deep Learning for Coders" available on Amazon](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?crid=1WOL750UV0NC1&keywords=deep+learning+for+coders&qid=1656359965&sprefix=deep+leanring+for+coders%2Caps%2C68&sr=8-1)
+- [Google Colab notebooks](https://course.fast.ai/Resources/book.html)
+- [Fastbook GitHub repo](https://github.com/fastai/fastbook)
+- [VM setup GitHub repo](https://github.com/murilogustineli/DataScienceVM/tree/main/Samples/fastai2)
+- [Quizzes](https://aiquizzes.com/howto)
+- [Bear classifier repo](https://github.com/murilogustineli/bear-classifier)
+- [Introduction to Machine Learning by MIT – video lecture](https://www.youtube.com/watch?v=h0e2HAPTGF4&ab_channel=MITOpenCourseWare)
 
 ---
 
@@ -136,3 +164,4 @@ Happy coding 😊
 - [Chapter 1 Questionnaire](https://github.com/murilogustineli/Simplif.ai/blob/main/Questionnaires/Ch01-Questionnaire.ipynb)
 - [Chapter 2 Questionnaire](https://github.com/murilogustineli/Simplif.ai/blob/main/Questionnaires/Ch02-Questionnaire.ipynb)
 - [Chapter 4 Questionnaire](https://github.com/murilogustineli/Simplif.ai/blob/main/Questionnaires/Ch04-Questionnaire.ipynb)
+-->
