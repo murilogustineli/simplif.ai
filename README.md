@@ -55,10 +55,10 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 | 06 <br> August 22 | [**AI Fundamentals: Explor computer vision**](https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/) <br> Modules: <br> 1. Analyze images with the Computer Vision service <br> 2. Classify images with the Custom Vision service <br> 3. Detect objects in images with the Custom Vision service <br> 4. Detect and analyze faces with the Face service <br> 5. Read text with the Computer Vision service <br> 6. Analyze receipts with the Form Recognizer service | 3hr |
 | 07 <br> August 29 | [**AI Fundamentals: Explore natural language processing**](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/) <br> Modules: <br> 1. Analyze text with the Language service <br> 2. Recognize and synthesize speech <br> 3. Translate text and speech <br> 4. Create a language model with Conversational Language Understanding <br> 5. Build a bot with the Language Service and Azure Bot Service | 2hr 40min |
 | 08 <br> September 05 | ***Finalize Capstone use-case*** <br> [**Cognitive Services Python SDK**](https://docs.microsoft.com/en-us/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/) <br> Main services: <br>azure-cognitiveservices-language-textanalytics <br> azure-cognitiveservices-vision-computervision <br> azure-cognitiveservices-vision-customvision | 4hr |
-| 09 <br> September 12 | Capstone project | _Unlimited_ |
-| 10 <br> September 19 | Capstone project | _Unlimited_ |
-| 11 <br> September 26 | Capstone project | _Unlimited_ |
-| 12 <br> October 03 | Capstone project | _Unlimited_ |
+| 09 <br> September 12 | **Capstone project** | _Unlimited_ |
+| 10 <br> September 19 | **Capstone project** | _Unlimited_ |
+| 11 <br> September 26 | **Capstone project** | _Unlimited_ |
+| 12 <br> October 03 | **Capstone project** | _Unlimited_ |
 
 ---
 
