@@ -33,32 +33,39 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 ---
 
 ### Helpful links
+- [AI-900: Azure AI Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/ai-900)
 - [Survey link](https://forms.gle/pTLLh8SQnpGwZxj79)
 
 
 ---
 
 ### Notes
-- We recommend not using the VPN when accessing the VM to run your models
 - Take the [survey](https://forms.gle/diCAZerPeNtg4ASk9) prior start of the course. Don't worry, it's completely anonymous
 
 ---
 
 ### 12-week course schedule
-| Week | Course content |
+| Week | Course content | Total hours |
 | ---- | -------------- |
-| 01   | [**Lesson 1**](https://www.youtube.com/watch?v=_QUEXsHfsA0&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM) <br> Chapter 1: Your Deep Learning Journey (pg. 3) |
-| 02   | [**Lesson 2**](https://www.youtube.com/watch?v=BvHmRx14HQ8&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=3) <br> Chapter 2: From Model to Production (pg. 57) |
-| 03   | [**Lesson 2**](https://www.youtube.com/watch?v=BvHmRx14HQ8&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=3) <br> Chapter 2: Creating an app from the Model (pg. 80) |
-| 04   | [**Lesson 3**](https://www.youtube.com/watch?v=5L3Ao5KuCC4&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=4) <br> Chapter 4: Under the Hood: Training a Digit Classifier (pg. 133) |
-| 05   | [**Lesson 4**](https://www.youtube.com/watch?v=p50s63nPq9I&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=5) <br> Chapter 4: Under the Hood: Training a Digit Classifier (pg. 163) <br> Chapter 5: Image Classification (pg. 185) |
-| 06   | [**Lesson 6**](https://www.youtube.com/watch?v=cX30jxMNBUw&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=7) <br> Chapter 5: Image Classification (pg. 203) <br> Chapter 6: Other Computer Vision problems (pg. 219) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 253) <br> ___Capstone project meeting check-in___ |
-| 07   | [**Lesson 7**](https://www.youtube.com/watch?v=VEG5xT5gAHc&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=8) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 265) <br> Chapter 9: Tabular Modeling Deep Dive (pg. 277) |
-| 08   | ***Review week*** <br> ___Finalize Capstone use-case___ <br> [**Lesson 8**](https://www.youtube.com/watch?v=WjnwWeGjZcM&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=9) __(OPTIONAL)__ <br> Chapter 10: NLP Deep Dive: RNNs (pg. 329) <br> Chapter 12: A Language Model from Scratch (pg. 373) |
-| 09   | Capstone project |
-| 10   | Capstone project |
-| 11   | Capstone project |
-| 12   | Capstone project |
+| 01 <br> July 18  | Completed |
+| 02 <br> July 25  | Completed |
+| 03 <br> August 01  | Completed |
+| 04 <br> August 08  | Completed |
+| 05 <br> August 15 | [**AI Fundamentals: Get started with artificial intelligence**](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) 
+<br> Modules: 
+<br> 1. Get started with AI on Azure
+<br> [**AI Fundamentals: Explore visual tools for machine learning**](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/) Modules: 
+<br> 1. Use automated machine learning in Azure Machine Learning
+<br> 2. Create a regression model with Azure Machine Learning designer 
+<br> 3. Create a classification model with Azure Machine Learning designer 
+<br> 4. Create a clustering Model with Azure Machine Learning designer (Optional)|
+| 06 <br> August 22 | [**Lesson 2**](https://www.youtube.com/watch?v=cX30jxMNBUw&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=7) <br> Chapter 5: Image Classification (pg. 203) <br> Chapter 6: Other Computer Vision problems (pg. 219) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 253) <br> ___Capstone project meeting check-in___ |
+| 07 <br> August 29 | [**Lesson 3**](https://www.youtube.com/watch?v=VEG5xT5gAHc&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=8) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 265) <br> Chapter 9: Tabular Modeling Deep Dive (pg. 277) |
+| 08 <br> September 05 | ***Finalize Capstone use-case*** <br> [**Lesson 4**](https://www.youtube.com/watch?v=WjnwWeGjZcM&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=9) __(OPTIONAL)__ <br> Chapter 10: NLP Deep Dive: RNNs (pg. 329) <br> Chapter 12: A Language Model from Scratch (pg. 373) |
+| 09 <br> September 12 | Capstone project | _Unlimited_ |
+| 10 <br> September 19 | Capstone project | _Unlimited_ |
+| 11 <br> September 26 | Capstone project | _Unlimited_ |
+| 12 <br> October 03 | Capstone project | _Unlimited_ |
 
 ---
 
