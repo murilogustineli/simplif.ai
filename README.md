@@ -67,7 +67,7 @@ Congratulations on making it through the first eight weeks! Now you’re ready t
 
 We are providing the following guideline for the capstone project.
 - Use Azure Cognitive Services to solve a problem of your choice. It will show how easy it is to build an AI solution using Cognitive Services.
-- You have learned the basic understanding/intuition of machine learning throughout the training and is now ready to build an AI solution. Should be comfortable working with APIs based on your use-case (e.g., Python SKD).
+- You have learned the basic understanding/intuition of machine learning throughout the training and is now ready to build an AI solution. Should be comfortable working with APIs based on your use-case (_e.g., Python SKD_).
 
 We encourage you to keep in mind the following **three rules** when approaching the capstone project:
 1. Use Azure Cognitive Services (Language or Vision).
