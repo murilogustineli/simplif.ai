@@ -75,7 +75,7 @@ We encourage you to keep in mind the following **three rules** when approaching 
 3. Try to create something unique that hasn’t been done before. We could possibly apply for a patent!
 
 ### Onboarding on Azure
-(ADD PARAGRAPH)
+You will be using the NAIP Azure subscription to create your capstone project. You should have access to the NAIP Azure subscription. If you don’t have access, please reach out one of the Simplif.ai coordinators.
 
 ### Goals of the capstone project
 - For the capstone project, your goal is to use what you learned throughout the first 8 weeks to create a unique solution that hasn’t been done before using AI.
