@@ -46,7 +46,7 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 
 ### 12-week course schedule
 | Week | Course content | Total hours |
-| ---- | -------------- |
+| ---- | -------------- | ----------- |
 | 01 <br> July 18  | Completed |
 | 02 <br> July 25  | Completed |
 | 03 <br> August 01  | Completed |
