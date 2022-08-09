@@ -95,7 +95,7 @@ We encourage you to keep in mind the following **three rules** when approaching 
 - Create a music recommendation system.
 - Create an NLP system that understands movie reviews as positive or negative.
 
-Don’t worry if these ideas sound too daunting or difficult. By week 8 (September 5th), you should be able to know at least where to start. Also, we will be providing feedback and mentoring during the Capstone project. However, it is expected that you come up with your own use case.
+Don’t worry if these ideas sound too daunting or difficult. By **week 8** (_September 5th_), you should be able to know at least where to start. Also, we will be providing feedback and mentoring during the Capstone project. However, it is expected that you come up with your own use case.
 
 Here’s some advice. Try to create the simplest model you can by the end of the first week of the capstone project phase and use the following weeks to iterate and improve your model. It’s easy to fall into the trap of trying to create something very complex and forget that a working model is better than no model at all.
 
