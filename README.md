@@ -69,7 +69,7 @@ We are providing the following guideline for the capstone project.
 - Use Azure Cognitive Services to solve a problem of your choice. It will show how easy it is to build an AI solution using Cognitive Services.
 - You have learned the basic understanding/intuition of machine learning throughout the training and is now ready to build an AI solution. Should be comfortable working with APIs based on your use-case (e.g., Python SKD).
 
-We encourage you to keep in mind the following three rules when approaching the capstone project:
+We encourage you to keep in mind the following **three rules** when approaching the capstone project:
 1. Use Azure Cognitive Services (Language or Vision).
 2. Define your use-case. Your use-case is what you’ll be creating including the dataset you’ll be using (deadline by week 8).
 3. Try to create something unique that hasn’t been done before. We could possibly apply for a patent!
@@ -79,7 +79,7 @@ We encourage you to keep in mind the following three rules when approaching the 
 
 ### Goals of the capstone project
 - For the capstone project, your goal is to use what you learned throughout the first 8 weeks to create a unique solution that hasn’t been done before using AI.
-- You have up to week 8 (September 5th) to come up with your use-case.
+- You have up to **week 8** (_September 5th_) to come up with your use-case.
 - We will hold weekly office hours to answer questions you may have and guide you throughout your project.
 
 ### Possible steps you may want to consider
@@ -91,7 +91,7 @@ We encourage you to keep in mind the following three rules when approaching the 
 ### Potential project ideas
 - Create a computer vision system that recognizes your pets.
 - Create a resume parser using NLP.
-- Create a model that recognizes anomalies on images (e.g., X-ray images).
+- Create a model that recognizes anomalies on images (_e.g., X-ray images).
 - Create a music recommendation system.
 - Create an NLP system that understands movie reviews as positive or negative.
 
@@ -99,7 +99,7 @@ Don’t worry if these ideas sound too daunting or difficult. By week 8 (Septemb
 
 Here’s some advice. Try to create the simplest model you can by the end of the first week of the capstone project phase and use the following weeks to iterate and improve your model. It’s easy to fall into the trap of trying to create something very complex and forget that a working model is better than no model at all.
 
-Happy coding 😊
+Happy learning 😊
 
 
 ---
