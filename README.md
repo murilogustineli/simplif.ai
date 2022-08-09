@@ -58,7 +58,10 @@ ___“We’ve seen that the only consistent trait amongst every fast.ai student 
 <br> 1. Use automated machine learning in Azure Machine Learning
 <br> 2. Create a regression model with Azure Machine Learning designer 
 <br> 3. Create a classification model with Azure Machine Learning designer 
-<br> 4. Create a clustering Model with Azure Machine Learning designer (Optional)|
+<br> 4. Create a clustering Model with Azure Machine Learning designer (Optional)
+|
+4hr
+| 
 | 06 <br> August 22 | [**Lesson 2**](https://www.youtube.com/watch?v=cX30jxMNBUw&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=7) <br> Chapter 5: Image Classification (pg. 203) <br> Chapter 6: Other Computer Vision problems (pg. 219) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 253) <br> ___Capstone project meeting check-in___ |
 | 07 <br> August 29 | [**Lesson 3**](https://www.youtube.com/watch?v=VEG5xT5gAHc&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=8) <br> Chapter 8: Collaborative Filtering Deep Dive (pg. 265) <br> Chapter 9: Tabular Modeling Deep Dive (pg. 277) |
 | 08 <br> September 05 | ***Finalize Capstone use-case*** <br> [**Lesson 4**](https://www.youtube.com/watch?v=WjnwWeGjZcM&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&index=9) __(OPTIONAL)__ <br> Chapter 10: NLP Deep Dive: RNNs (pg. 329) <br> Chapter 12: A Language Model from Scratch (pg. 373) |
