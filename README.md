@@ -91,7 +91,7 @@ We encourage you to keep in mind the following **three rules** when approaching 
 ### Potential project ideas
 - Create a computer vision system that recognizes your pets.
 - Create a resume parser using NLP.
-- Create a model that recognizes anomalies on images (_e.g., X-ray images).
+- Create a model that recognizes anomalies on images (_e.g., X-ray images_).
 - Create a music recommendation system.
 - Create an NLP system that understands movie reviews as positive or negative.
 
