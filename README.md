@@ -17,12 +17,6 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 
 ---
 
-If you're looking for some inspirantion, here's a quote from Jeremy Howard, one of the co-founders of fast.ai
-
-___“We’ve seen that the only consistent trait amongst every fast.ai student that’s gone on to be a world-class practitioner is that they are all very tenacious.”___
-
----
-
 ### Meeting schedule
 | Day of week | Course content |
 | ----------- | -------------- |
