@@ -34,7 +34,7 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 ---
 
 ### Notes
-- Take the [survey](https://forms.gle/diCAZerPeNtg4ASk9) prior start of the course. Don't worry, it's completely anonymous
+- Take the [survey](https://forms.gle/diCAZerPeNtg4ASk9) prior start of the course. Don't worry, it's completely anonymous.
 
 ---
 
@@ -68,19 +68,26 @@ We encourage you to keep in mind the following **three rules** when approaching 
 2. Define your use-case. Your use-case is what you’ll be creating including the dataset you’ll be using (deadline by week 8).
 3. Try to create something unique that hasn’t been done before. We could possibly apply for a patent!
 
+
 ### Onboarding on Azure
-You will be using the NAIP Azure subscription to create your capstone project. You should have access to the NAIP Azure subscription. If you don’t have access, please reach out one of the Simplif.ai coordinators.
+You will be using the **NAIP Azure subscription** to create on your capstone project. You should have access to the NAIP Azure subscription. If you don’t have access, please reach out one of the Simplif.ai coordinators.
+
+In the NAIP Azure account, you will find a **Resource Group** made specially for you to use. The Resource Group name will be a combination of the first letter of your first name followed by your last name. For example:
+- Tony Stark resource group name is **tstartk**.
+
 
 ### Goals of the capstone project
 - For the capstone project, your goal is to use what you learned throughout the first 8 weeks to create a unique solution that hasn’t been done before using AI.
 - You have up to **week 8** (_September 5th_) to come up with your use-case.
 - We will hold weekly office hours to answer questions you may have and guide you throughout your project.
 
+
 ### Possible steps you may want to consider
 1. Think about a use case or a problem you want to solve. Hopefully, something that hasn’t been done before.
 2. Find/create a dataset that can be used to train an AI system to solve the problem. Check it out some datasets here.
 3. Incorporate Azure Cognitive Services into training/deploying your model.
 4. Reiterate and try to improve your model.
+
 
 ### Potential project ideas
 - Create a computer vision system that recognizes your pets.
@@ -94,7 +101,6 @@ Don’t worry if these ideas sound too daunting or difficult. By **week 8** (_Se
 Here’s some advice. Try to create the simplest model you can by the end of the first week of the capstone project phase and use the following weeks to iterate and improve your model. It’s easy to fall into the trap of trying to create something very complex and forget that a working model is better than no model at all.
 
 Happy learning 😊
-
 
 ---
 
