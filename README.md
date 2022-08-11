@@ -76,7 +76,7 @@ In the NAIP Azure account, you will find a **resource group** made specially for
 - The first letter of your first name followed by your last name.
 - E.g., Tony Stark resource group name is ***tstartk***.
 
-You may find your resource groups [**here**](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups). Make sure you're using the NAIP subscription.
+You may find your resource group [**here**](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups). Make sure you're using the NAIP subscription.
 
 
 ### Goals of the capstone project
