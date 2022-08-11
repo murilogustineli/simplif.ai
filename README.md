@@ -76,6 +76,8 @@ In the NAIP Azure account, you will find a **resource group** made specially for
 - The first letter of your first name followed by your last name.
 - E.g., Tony Stark resource group name is ***tstartk***.
 
+You may find your resource groups [**here**](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups). Make sure you're using the NAIP subscription.
+
 
 ### Goals of the capstone project
 - For the capstone project, your goal is to use what you learned throughout the first 8 weeks to create a unique solution that hasn’t been done before using AI.
