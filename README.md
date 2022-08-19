@@ -70,11 +70,11 @@ We encourage you to keep in mind the following **three rules** when approaching 
 
 
 ### Onboarding on Azure
-You will be using the **NAIP Azure subscription** to create on your capstone project. You should have access to the NAIP Azure subscription. If you don’t have access, please reach out one of the Simplif.ai coordinators.
+You will be using the **NAIP Azure subscription (DI_NA_DataAI_Workshops_001)** to follow the training exercises and create your capstone project. You should have access to the NAIP Azure subscription. If you don’t have access, please reach out one of the Simplif.ai coordinators.
 
-In the NAIP Azure account, you will find a **resource group** made specially for you to use. The resource group name will be a combination of:
+In the NAIP Azure account, you will find a **resource group** made specially for you to use. Your resource group name will be a combination of:
 - The first letter of your first name followed by your last name.
-- E.g., Tony Stark resource group name is ***tstartk***.
+- E.g., **Tony Stark** resource group is ***tstartk***.
 
 You may find your resource group [**here**](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups). Make sure you're using the NAIP subscription.
 
