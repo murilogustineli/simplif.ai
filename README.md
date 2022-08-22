@@ -41,18 +41,20 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 ### 12-week course schedule
 | Week # | Week Of | Course content | Total hours |
 | ---- | --------- | -------------- | ----------- |
+<!-- 
 | **01** | July 18  | Completed |  |
 | **02** | July 25  | Completed |  |
 | **03** | August 01  | Completed |  |
 | **04** | August 08  | Completed |  |
-| **05** | August 22 | [**AI Fundamentals: Get started with artificial intelligence**](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) <br> Modules: <br> 1. Get started with AI on Azure <br><br> [**AI Fundamentals: Explore visual tools for machine learning**](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/) <br> Modules: <br> 1. Use automated machine learning in Azure Machine Learning <br> 2. Create a regression model with Azure Machine Learning designer <br> 3. Create a classification model with Azure Machine Learning designer <br> 4. Create a clustering Model with Azure Machine Learning designer (**Optional**)| 4hr 30min |
-| **06** | August 29 | [**AI Fundamentals: Explore computer vision**](https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/) <br> Modules: <br> 1. Analyze images with the Computer Vision service <br> 2. Classify images with the Custom Vision service <br> 3. Detect objects in images with the Custom Vision service <br> 4. Detect and analyze faces with the Face service <br> 5. Read text with the Computer Vision service <br> 6. Analyze receipts with the Form Recognizer service | 3hr |
-| **07** | September 05 | [**AI Fundamentals: Explore natural language processing**](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/) <br> Modules: <br> 1. Analyze text with the Language service <br> 2. Recognize and synthesize speech <br> 3. Translate text and speech <br> 4. Create a language model with Conversational Language Understanding <br> 5. Build a bot with the Language Service and Azure Bot Service | 2hr 40min |
-| **08** | September 12 | ***Finalize Capstone use-case*** <br><br> [**Cognitive Services Python SDK**](https://docs.microsoft.com/en-us/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/) <br> Main services: <br> azure-cognitiveservices-language-textanalytics <br> azure-cognitiveservices-vision-computervision <br> azure-cognitiveservices-vision-customvision | 4hr |
-| **09** | September 19 | **Capstone project** | _Unlimited_ |
-| **10** | September 26 | **Capstone project** | _Unlimited_ |
-| **11** | September 03 | **Capstone project** | _Unlimited_ |
-| **12** | October 10 | **Capstone project** | _Unlimited_ |
+-->
+| **01** | August 22 | [**AI Fundamentals: Get started with artificial intelligence**](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) <br> Modules: <br> 1. Get started with AI on Azure <br><br> [**AI Fundamentals: Explore visual tools for machine learning**](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/) <br> Modules: <br> 1. Use automated machine learning in Azure Machine Learning <br> 2. Create a regression model with Azure Machine Learning designer <br> 3. Create a classification model with Azure Machine Learning designer <br> 4. Create a clustering Model with Azure Machine Learning designer (**Optional**)| 4hr 30min |
+| **02** | August 29 | [**AI Fundamentals: Explore computer vision**](https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/) <br> Modules: <br> 1. Analyze images with the Computer Vision service <br> 2. Classify images with the Custom Vision service <br> 3. Detect objects in images with the Custom Vision service <br> 4. Detect and analyze faces with the Face service <br> 5. Read text with the Computer Vision service <br> 6. Analyze receipts with the Form Recognizer service | 3hr |
+| **03** | September 05 | [**AI Fundamentals: Explore natural language processing**](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/) <br> Modules: <br> 1. Analyze text with the Language service <br> 2. Recognize and synthesize speech <br> 3. Translate text and speech <br> 4. Create a language model with Conversational Language Understanding <br> 5. Build a bot with the Language Service and Azure Bot Service | 2hr 40min |
+| **04** | September 12 | ***Finalize Capstone use-case*** <br><br> [**Cognitive Services Python SDK**](https://docs.microsoft.com/en-us/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/) <br> Main services: <br> azure-cognitiveservices-language-textanalytics <br> azure-cognitiveservices-vision-computervision <br> azure-cognitiveservices-vision-customvision | 4hr |
+| **05** | September 19 | **Capstone project** | _Unlimited_ |
+| **06** | September 26 | **Capstone project** | _Unlimited_ |
+| **07** | September 03 | **Capstone project** | _Unlimited_ |
+| **08** | October 10 | **Capstone project** | _Unlimited_ |
 
 ---
 
