@@ -40,7 +40,7 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 
 ### 12-week course schedule
 | Week # | Week Of | Course content | Total hours |
-| ---- | -------------- | ----------- |
+| ---- | --------- | -------------- | ----------- |
 | **01** | July 18  | Completed |  |
 | **02** | July 25  | Completed |  |
 | **03** | August 01  | Completed |  |
