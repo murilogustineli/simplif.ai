@@ -38,7 +38,7 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 
 ---
 
-### 12-week course schedule
+### 8-week course schedule
 | Week # | Week Of | Course content | Total hours |
 | ---- | --------- | -------------- | ----------- |
 | **01** | August 22 | [**AI Fundamentals: Get started with artificial intelligence**](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) <br> Modules: <br> 1. Get started with AI on Azure <br><br> [**AI Fundamentals: Explore visual tools for machine learning**](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/) <br> Modules: <br> 1. Use automated machine learning in Azure Machine Learning <br> 2. Create a regression model with Azure Machine Learning designer <br> 3. Create a classification model with Azure Machine Learning designer <br> 4. Create a clustering Model with Azure Machine Learning designer (**Optional**)| 4hr 30min |
