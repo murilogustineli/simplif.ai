@@ -55,7 +55,7 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 ### Optional Readings
 | Week # | Week Of | Readings |
 | ------ | ------- | -------- |
-| **01** | August 22 | [Choosing the right metric for the model](https://towardsdatascience.com/whats-the-difference-between-a-metric-and-a-loss-function-38cac955f46d) <br> [Dealing with missing values](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) <br> [Train/Test Split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) <br> [StatQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8) <br> [StatQuest: ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM) |
+| **01** | August 22 | [**Choosing the right metric for the model**](https://towardsdatascience.com/whats-the-difference-between-a-metric-and-a-loss-function-38cac955f46d) <br> [**Dealing with missing values**](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) <br> [**Train/Test Split**](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) <br> [**StatQuest: Logistic Regression**](https://www.youtube.com/watch?v=yIYKR4sgzI8) <br> [**StatQuest: ROC and AUC**](https://www.youtube.com/watch?v=4jRBRDbJemM) |
 
 
 ## Capstone Project
