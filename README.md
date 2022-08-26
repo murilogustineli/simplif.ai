@@ -4,6 +4,7 @@
 
 Hello, and thank you for letting us join you on your machine learning journey, however far along that you may be! It doesn't matter if you don't come from a technical or a mathematical background (though it's okay if you do too!); we are releasing this training to help as many people as possible learn about machine learning and AI. We are very excited to be joining you in this journey 😊
 
+
 #### Our Goal: provide practical experience in applied AI
 - Provide a 12-week training with a capstone project
 - Help with scoping, designing, implementing POC of AI project
@@ -30,7 +31,6 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 - [AI-900: Azure AI Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/ai-900)
 - [Survey link](https://forms.gle/pTLLh8SQnpGwZxj79)
 
-
 ---
 
 ### Notes
@@ -52,11 +52,12 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 
 ---
 
-### Extra Course Material
+### Additional Course Material
 | Week # | Week Of | Readings | Videos |
 | ------ | ------- | -------- | ------ |
 | **01** | August 22 | [**Choosing the right metric for the model**](https://towardsdatascience.com/whats-the-difference-between-a-metric-and-a-loss-function-38cac955f46d) <br> [**Dealing with missing values**](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) <br> [**Train/Test Split**](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) | [**StatQuest: Logistic Regression**](https://www.youtube.com/watch?v=yIYKR4sgzI8) <br> [**StatQuest: ROC and AUC**](https://www.youtube.com/watch?v=4jRBRDbJemM) |
 
+---
 
 ## Capstone Project
 Congratulations on making it through the first eight weeks! Now you’re ready to build a cool project!
