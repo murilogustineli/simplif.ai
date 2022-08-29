@@ -56,7 +56,7 @@ Hello, and thank you for letting us join you on your machine learning journey, h
 | Week # | Week Of | Readings | Videos |
 | ------ | ------- | -------- | ------ |
 | **01** | August 22 | [**Choosing the right metric for the model**](https://towardsdatascience.com/whats-the-difference-between-a-metric-and-a-loss-function-38cac955f46d) <br> [**Dealing with missing values**](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) <br> [**Train/Test Split**](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) | [**StatQuest: Logistic Regression**](https://www.youtube.com/watch?v=yIYKR4sgzI8) <br> [**StatQuest: ROC and AUC**](https://www.youtube.com/watch?v=4jRBRDbJemM) |
-| **02** | August 29 | [**What is Computer Vision & How does it work?**](https://xd.adobe.com/ideas/principles/emerging-technology/what-is-computer-vision-how-does-it-work/) <br> [**A suvery on recently proposed activation functions for Deep Learning**](https://arxiv.org/pdf/2204.02921.pdf) | [**CrashCourse: Computer Vision**](https://www.youtube.com/watch?v=-4E2-0sxVUM)
+| **02** | August 29 | - [**What is Computer Vision & How does it work?**](https://xd.adobe.com/ideas/principles/emerging-technology/what-is-computer-vision-how-does-it-work/) <br> - [**A survey on recently proposed activation functions for Deep Learning**](https://arxiv.org/pdf/2204.02921.pdf) | [**CrashCourse: Computer Vision**](https://www.youtube.com/watch?v=-4E2-0sxVUM)
 
 ---
 
