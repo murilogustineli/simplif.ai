@@ -17,7 +17,7 @@
 	<li><a href="#computer-vision-setup">Setup</a></li>
 	<li><a href="#computer-vision-steps">Steps</a></li>
 	<li><a href="#computer-vision-code">Code</a></li>
-	<li><a href="#computer-vision-examples">Examples</a></li>
+	<li><a href="#computer-vision-exercises">Exercises</a></li>
 	<ul>
 		<li><a href="#store-camera-1jpg">store-camera-1.jpg</a></li>
 		<li><a href="#store-camera-2jpg">store-camera-2.jpg</a></li>
@@ -34,7 +34,7 @@
 	<li><a href="#nlp-setup">Setup</a></li>
 	<li><a href="#nlp-steps">Steps</a></li>
 	<li><a href="#nlp-code">Code</a></li>
-	<li><a href="#nlp-examples">Examples</a></li>
+	<li><a href="#nlp-exercises">Exercises</a></li>
 	<ul>
 		<li><a href="#review1txt">review1.txt</a></li>
 		<li><a href="#review2txt">review2.txt</a></li>
@@ -90,7 +90,7 @@
 	* This demo installs the Computer Vision resource. 
 	* The computer vision exercise below uses the Cognitive Services resource.
 	* Either are ok to use.
-	* This demo also gives some good examples of the objects the computer vision model returns.
+	* This demo also gives some good Exercises of the objects the computer vision model returns.
 
 #### Resources
  * [Azure Cognitive Services SDK for Python: Microsoft Docs](https://docs.microsoft.com/en-us/python/api/overview/azure/cognitive-services?view=azure-python)
@@ -106,7 +106,7 @@ After completing these exercises, it is recommended to look over the Python SDK 
 Experimentation with each services' features is encouraged, even the ones that were not covered in the exercises.
 
 
-Another resource you can use is the [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python) to look for more examples.
+Another resource you can use is the [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python) to look for more Exercises.
 
 
 
@@ -141,7 +141,7 @@ pip install azure-cognitiveservices-vision-computervision
 1. In the Bash shell pane, enter the following commands to navigate inside the ai-900 folder:
 	* `cd ai-900`
 
-1. Create the file `analyze-image.py` by running the following code
+4. Create the file `analyze-image.py` by running the following code
 	* `touch analyze-image.py`
 
 1. In the Files pane on the left, expand ai-900 and select `analyze-image.py`. This file will be empty.
@@ -156,7 +156,7 @@ pip install azure-cognitiveservices-vision-computervision
 <ul><pre><code>key = "1a2b3c4d5e6f7g8h9i0j...."
 ACCOUNT_REGION = 'eastus2'</code></pre></ul>
 
-1. At the top right of the editor pane, use the ... button to open the menu and select Save to save your changes. <br> The sample client application will use your Computer Vision service to analyze the image found in [Example 1](#store-camera-1jpg)
+10. At the top right of the editor pane, use the ... button to open the menu and select Save to save your changes. <br> The sample client application will use your Computer Vision service to analyze the image found in [Exercise 1](#store-camera-1jpg)
 
 1. In the Bash shell pane, enter the following commands to run the code:
 	* `python analyze-image.py store-camera-1.jpg`
@@ -166,10 +166,10 @@ ACCOUNT_REGION = 'eastus2'</code></pre></ul>
 	* A list of objects identified in the image.
 	* A list of "tags" that are relevant to the image.
 
-1. Go ahead and try the other examples
-	* [Example 2](#store-camera-2jpg) `python analyze-image.py store-camera-2.jpg`
-	* [Example 3](#store-camera-3jpg) `python analyze-image.py store-camera-3.jpg`
-	* [Example 4](#store-camera-4jpg) `python analyze-image.py store-camera-4.jpg`
+1. Go ahead and try the other Exercises
+	* [Exercise 2](#store-camera-2jpg) `python analyze-image.py store-camera-2.jpg`
+	* [Exercise 3](#store-camera-3jpg) `python analyze-image.py store-camera-3.jpg`
+	* [Exercise 4](#store-camera-4jpg) `python analyze-image.py store-camera-4.jpg`
 <br>
 <br>
 
@@ -188,34 +188,39 @@ ACCOUNT_REGION = 'eastus2'</code></pre></ul>
 ACCOUNT_REGION = <span style="color:orange;">'YOUR_REGION'</span>
 ENDPOINT = <span style="color:orange;">f'https://{ACCOUNT_REGION}.api.cognitive.microsoft.com/'</span>
 
+<br>
 <span style="color:blue;">from</span> msrest.authentication <span style="color:blue;">import</span> CognitiveServicesCredentials
 <span style="color:blue;">from</span> azure.cognitiveservices.vision.computervision <span style="color:blue;">import</span> ComputerVisionClient
 <span style="color:blue;">from</span> azure.cognitiveservices.vision.computervision.models <span style="color:blue;">import</span> VisualFeatureTypes
 <span style="color:blue;">import</span> sys
 
+<br>
 args = sys.argv[<span style="color:green;">1</span>:]
 img_file = <span style="color:orange;">'store-camera-1.jpg'</span>
 img_list = [<span style="color:orange;">"store-camera-1.jpg"</span>, <span style="color:orange;">"store-camera-2.jpg"</span>, <span style="color:orange;">"store-camera-3.jpg"</span>, <span style="color:orange;">"store-camera-4.jpg"</span>]
 <span style="color:blue;">if len</span>(args) > <span style="color:green;">0</span> and args[<span style="color:green;">0</span>] <span style="color:blue;">in</span> img_list:
-    img_file = args[<span style="color:green;">0</span>]
+&nbsp;&nbsp;&nbsp;&nbsp;img_file = args[<span style="color:green;">0</span>]
 img = <span style="color:orange;">f'https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/vision/{img_file}'</span>
 
+<br>
 credentials = CognitiveServicesCredentials(key)
 client = ComputerVisionClient(endpoint=ENDPOINT, credentials=credentials)
 
+<br>
 <span style="color:blue;">print</span>(<span style="color:orange;">'Analyzing image...'</span>)
 viz_features = [VisualFeatureTypes.description, VisualFeatureTypes.objects, VisualFeatureTypes.tags]
 analysis = client.analyze_image(img, visual_features=viz_features)
 
+<br>
 <span style="color:blue;">print</span>(<span style="color:orange;">'\nDescription:'</span>)
 <span style="color:blue;">for</span> caption <span style="color:blue;">in</span> analysis.description.captions:
-    <span style="color:blue;">print</span>(caption.text)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(caption.text)
 <span style="color:blue;">print</span>(<span style="color:orange;">'\nObjects in this image:'</span>)
 <span style="color:blue;">for</span> analysis_object <span style="color:blue;">in</span> analysis.objects:
-    <span style="color:blue;">print</span>(<span style="color:orange;">f' - {analysis_object.object_property}'</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f' - {analysis_object.object_property}'</span>)
 <span style="color:blue;">print</span>(<span style="color:orange;">'\nTags relevant to this image:'</span>)
 <span style="color:blue;">for</span> tag <span style="color:blue;">in</span> analysis.description.tags:
-    <span style="color:blue;">print</span>(<span style="color:orange;">f' - {tag}'</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f' - {tag}'</span>)
 <span style="color:blue;">print</span>(<span style="color:orange;">'\n'</span>)
 </code></pre>
 </details>
@@ -223,7 +228,7 @@ analysis = client.analyze_image(img, visual_features=viz_features)
 #### DOWNLOAD FILES
 __[Powershell File](./analyze-image.ps1)__ | __[Python File](./analyze-image.py)__
 
-### Computer Vision Examples
+### Computer Vision Exercises
 <sup>[(back to top)](#azure-cognitive-services-python-sdk)</sup>
 
 ---
@@ -431,9 +436,9 @@ pip install azure-ai-textanalytics
 1. Switch to the Bash shell. *If you are already in the Bash shell, skip this step.*
 
 1. In the Bash shell pane, enter the following commands to navigate inside the ai-900 folder:
-<ul><code>cd ai-900</code></ul><em>If you are already in the <code>ai-900</code> directory, skip this step.</em>
+	* `cd ai-900`
 
-1. Create the file `analyze-text.py` by running the following code
+4. Create the file `analyze-text.py` by running the following code
 	* `touch analyze-text.py`
 
 1. In the Files pane on the left, expand ai-900 and select `analyze-text.py`. This file will be empty.
@@ -448,7 +453,7 @@ pip install azure-ai-textanalytics
 <ul><pre><code>key = "1a2b3c4d5e6f7g8h9i0j...."
 ACCOUNT_REGION = 'eastus2'</code></pre></ul>
 
-1. At the top right of the editor pane, use the ... button to open the menu and select Save to save your changes. <br> The sample client application will use Cognitive Services' Language service to detect language, extract key phrases, determine sentiment, and extract known entities in [Example 1](#review1txt)
+10. At the top right of the editor pane, use the ... button to open the menu and select Save to save your changes. <br> The sample client application will use Cognitive Services' Language service to detect language, extract key phrases, determine sentiment, and extract known entities in [Exercise 1](#review1txt)
 
 1. In the Bash shell pane, enter the following commands to run the code:
 <ul><code>python analyze-text.py review1.txt</code></ul><br>
@@ -460,11 +465,11 @@ The Royal Hotel, London, UK <br>
 Clean rooms, good service, great location near Buckingham Palace and Westminster Abbey, and so on. We thoroughly enjoyed our stay. The courtyard is very peaceful and we went to a restaurant which is part of the same group and is Indian ( West coast so plenty of fish) with a Michelin Star. We had the taster menu which was fabulous. The rooms were very well appointed with a kitchen, lounge, bedroom and enormous bathroom. Thoroughly recommended.</blockquote>
 </ul>
 
-1. Go ahead and try the other examples
+12. Go ahead and try the other Exercises
 <ul>
-<li><a href="#review2txt">Example 2:</a> <code>python analyze-text.py review2.txt</code></li>
-<li><a href="#review3txt">Example 3:</a> <code>python analyze-text.py review3.txt</code></li>
-<li><a href="#review4txt">Example 4:</a> <code>python analyze-text.py review4.txt</code></li>
+<li><a href="#review2txt">Exercise 2:</a> <code>python analyze-text.py review2.txt</code></li>
+<li><a href="#review3txt">Exercise 3:</a> <code>python analyze-text.py review3.txt</code></li>
+<li><a href="#review4txt">Exercise 4:</a> <code>python analyze-text.py review4.txt</code></li>
 </ul>
 <br>
 
@@ -481,11 +486,13 @@ Clean rooms, good service, great location near Buckingham Palace and Westminster
 ACCOUNT_REGION = <span style="color:orange;">'YOUR_REGION'</span>
 ENDPOINT = <span style="color:orange;">f'https://{ACCOUNT_REGION}.api.cognitive.microsoft.com/'</span>
 
+<br>
 <span style="color:blue;">from</span> azure.core.credentials <span style="color:blue;">import</span> AzureKeyCredential
 <span style="color:blue;">from</span> azure.ai.textanalytics <span style="color:blue;">import</span> TextAnalyticsClient
 <span style="color:blue;">import</span> sys
 <span style="color:blue;">import</span> requests
 
+<br>
 args = sys.argv[<span style="color:green;">1</span>:]
 txt_file = <span style="color:orange;">'review1.txt'</span>
 txt_list = [<span style="color:orange;">"review1.txt"</span>, <span style="color:orange;">"review2.txt"</span>, <span style="color:orange;">"review3.txt"</span>, <span style="color:orange;">"review4.txt"</span>]
@@ -493,64 +500,70 @@ if len(args) > <span style="color:green;">0</span> and args[<span style="color:g
     txt_file = args[<span style="color:green;">0</span>]
 url = <span style="color:orange;">f'https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/text/reviews/{txt_file}'</span>
 
+<br>
 response = requests.get(url)
 documents = [response.text]
 
+<br>
 credentials = AzureKeyCredential(key)
 text_analytics_client = TextAnalyticsClient(endpoint=ENDPOINT, credential=credentials)
 
+<br>
 <span style="color:blue;">print</span>(<span style="color:orange;">"***Detecting Language***"</span>)
 response = text_analytics_client.detect_language(documents)
 result = [doc <span style="color:blue;">for</span> doc <span style="color:blue;">in</span> response <span style="color:blue;">if not</span> doc.is_error]
 
+<br>
 langName = None
 langCode = None
 langScore = None
 <span style="color:blue;">for</span> doc <span style="color:blue;">in</span> result:
-    langName = doc.primary_language.name
-    langCode = doc.primary_language.iso6391_name
-    langScore = doc.primary_language.confidence_score
-    <span style="color:blue;">print</span>(<span style="color:orange;">f"  - Language: {langName}"</span>)
-    <span style="color:blue;">print</span>(<span style="color:orange;">f"  - Code:     {langCode}"</span>)
-    <span style="color:blue;">print</span>(<span style="color:orange;">f"  - Score:    {langScore}"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;langName = doc.primary_language.name
+&nbsp;&nbsp;&nbsp;&nbsp;langCode = doc.primary_language.iso6391_name
+&nbsp;&nbsp;&nbsp;&nbsp;langScore = doc.primary_language.confidence_score
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f"  - Language: {langName}"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f"  - Code:     {langCode}"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f"  - Score:    {langScore}"</span>)
 
+<br>
 <span style="color:blue;">print</span>(<span style="color:orange;">"\n\n***Finding Key Phrases***"</span>)
 response = text_analytics_client.extract_key_phrases(documents, language=langCode)
 result = [doc <span style="color:blue;">for</span> doc <span style="color:blue;">in</span> response <span style="color:blue;">if not</span> doc.is_error]
 <span style="color:blue;">for</span> doc <span style="color:blue;">in</span> result:
-    <span style="color:blue;">print</span>(<span style="color:orange;">"  - Key Phrases: "</span>)
-	<span style="color:blue;">for</span> key_phrase <span style="color:blue;">in</span> doc.key_phrases:
-        <span style="color:blue;">print</span>(f<span style="color:orange;">"    {key_phrase}"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">"  - Key Phrases: "</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">for</span> key_phrase <span style="color:blue;">in</span> doc.key_phrases:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(f<span style="color:orange;">"    {key_phrase}"</span>)
 
+<br>
 <span style="color:blue;">print</span>(<span style="color:orange;">"\n\n***Analyzing Sentiment***"</span>)
 response = text_analytics_client.analyze_sentiment(documents, language=langCode)
 result = [doc <span style="color:blue;">for</span> doc <span style="color:blue;">in</span> response <span style="color:blue;">if not</span> doc.is_error]
 <span style="color:blue;">for</span> doc <span style="color:blue;">in</span> result:
-    sentiment = doc.sentiment
-    positive = doc.confidence_scores.positive
-    neutral = doc.confidence_scores.neutral
-    negative = doc.confidence_scores.negative
-    <span style="color:blue;">print</span>(<span style="color:orange;">f"  - A {sentiment} sentiment based on these scores:"</span>)
-    <span style="color:blue;">print</span>(<span style="color:orange;">f"    - Positive: {positive}"</span>)
-    <span style="color:blue;">print</span>(<span style="color:orange;">f"    - Neutral:  {neutral}"</span>)
-    <span style="color:blue;">print</span>(<span style="color:orange;">f"    - Negative: {negative}"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;sentiment = doc.sentiment
+&nbsp;&nbsp;&nbsp;&nbsp;positive = doc.confidence_scores.positive
+&nbsp;&nbsp;&nbsp;&nbsp;neutral = doc.confidence_scores.neutral
+&nbsp;&nbsp;&nbsp;&nbsp;negative = doc.confidence_scores.negative
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f"  - A {sentiment} sentiment based on these scores:"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f"    - Positive: {positive}"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f"    - Neutral:  {neutral}"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f"    - Negative: {negative}"</span>)
 
+<br>
 <span style="color:blue;">print</span>(<span style="color:orange;">"\n\n***Identifying known entities***"</span>)
 response = text_analytics_client.recognize_linked_entities(documents, language=langCode)
 result = [doc <span style="color:blue;">for</span> doc <span style="color:blue;">in</span> response <span style="color:blue;">if not</span> doc.is_error]
 <span style="color:blue;">for</span> doc <span style="color:blue;">in</span> result:
-	<span style="color:blue;">for</span> entity <span style="color:blue;">in</span> doc.entities:
-        <span style="color:blue;">print</span>(<span style="color:orange;">f"  - {entity.name} : {entity.url}"</span>)
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">for</span> entity <span style="color:blue;">in</span> doc.entities:
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue;">print</span>(<span style="color:orange;">f"  - {entity.name} : {entity.url}"</span>)
 
-
-
+<br>
 </code></pre>
 </details>
 
 #### DOWNLOAD FILES
 __[Powershell File](./analyze-text.ps1)__ | __[Python File](./analyze-text.py)__
 
-### NLP Examples
+### NLP Exercises
 
 
 ---
